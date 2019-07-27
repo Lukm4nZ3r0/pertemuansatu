@@ -1,0 +1,14 @@
+D:\dotNetCore\pertemuansatu\bin\Debug\netcoreapp2.2\pertemuansatu.deps.json
+D:\dotNetCore\pertemuansatu\bin\Debug\netcoreapp2.2\pertemuansatu.runtimeconfig.json
+D:\dotNetCore\pertemuansatu\bin\Debug\netcoreapp2.2\pertemuansatu.runtimeconfig.dev.json
+D:\dotNetCore\pertemuansatu\bin\Debug\netcoreapp2.2\pertemuansatu.dll
+D:\dotNetCore\pertemuansatu\bin\Debug\netcoreapp2.2\pertemuansatu.pdb
+D:\dotNetCore\pertemuansatu\obj\Debug\netcoreapp2.2\pertemuansatu.csprojAssemblyReference.cache
+D:\dotNetCore\pertemuansatu\obj\Debug\netcoreapp2.2\pertemuansatu.csproj.CoreCompileInputs.cache
+D:\dotNetCore\pertemuansatu\obj\Debug\netcoreapp2.2\pertemuansatu.RazorAssemblyInfo.cache
+D:\dotNetCore\pertemuansatu\obj\Debug\netcoreapp2.2\pertemuansatu.RazorAssemblyInfo.cs
+D:\dotNetCore\pertemuansatu\obj\Debug\netcoreapp2.2\pertemuansatu.AssemblyInfoInputs.cache
+D:\dotNetCore\pertemuansatu\obj\Debug\netcoreapp2.2\pertemuansatu.AssemblyInfo.cs
+D:\dotNetCore\pertemuansatu\obj\Debug\netcoreapp2.2\pertemuansatu.RazorTargetAssemblyInfo.cache
+D:\dotNetCore\pertemuansatu\obj\Debug\netcoreapp2.2\pertemuansatu.dll
+D:\dotNetCore\pertemuansatu\obj\Debug\netcoreapp2.2\pertemuansatu.pdb
